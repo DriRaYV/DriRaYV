@@ -1,7 +1,7 @@
 ## Hi there 💘, my name is Rafaella.
 ## I'm a student off systems development.
 
-- 👨‍💻I'm currently learning: JAVA SCRIPT / HTML / CSS / DATABASE/ OPERATING SYSTEMS
+- 👨‍💻I'm currently learning: JAVA SCRIPT / HTML / CSS / SQL/ OPERATING SYSTEMS
 - 💌Ask me about:  GIT BASH
 - 📬How to reach me: rafaellagdh55@gmail.com
 - 🚹Pronouns: SHE/HER
