@@ -2,7 +2,7 @@
 ## I'm a student off systems development.
 
 - 👨‍💻I'm currently learning: JAVA SCRIPT / HTML / CSS / SQL/ OPERATING SYSTEMS
-- 💌Ask me about:  GIT BASH
+- 💌Ask me about:  GIT 
 - 📬How to reach me: rafaellagdh55@gmail.com
 - 🚹Pronouns: SHE/HER
 - ⚡ my favorite phrase: "We were born to make history" 
