@@ -1,7 +1,7 @@
 ## Hi there 💘 my name is Rafaella.
 ## I'm a student off systems development.
 
-- 👨‍💻I'm currently learning/ I know: JAVA SCRIPT / HTML / CSS / SQL / TYPE SCRIPT / PYTHON / GRAPHQL / FRAMEEWORKS (NEST) / ORM (PRISMA)
+- 👨‍💻I'm currently learning/ I know: JAVA SCRIPT / HTML / CSS / SQL / TYPE SCRIPT / PYTHON (pandas) / GRAPHQL / FRAMEEWORKS (NEST) / ORM (PRISMA) /Java
 - 📬How to reach me: rafaellagdh55@gmail.com
 - 🚹Pronouns: SHE/HER
 - ⚡ my favorite phrase: "We were born to make history" 
