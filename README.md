@@ -1,5 +1,5 @@
 ## Hi there 💘 my name is Rafaella.
-## I'm a student off systems development.
+## I'm a Junior Data Analyst.
 
 - 👨‍💻I'm currently learning/ I know: JAVA SCRIPT / HTML / CSS / SQL / TYPE SCRIPT / PYTHON (pandas) / GRAPHQL / FRAMEEWORKS (NEST) / ORM (PRISMA) /Java
 - 📬How to reach me: rafaellagdh55@gmail.com
