@@ -68,7 +68,3 @@ Scrum • Git • GitHub • DataOps • Automation • Problem Solving
 * 💞 All my projects are made for **learning and sharing** — feel free to use them under the **MIT License**.
 * ☕ I believe that curiosity and coffee are the best combo for creativity.
 
----
-
-Quer que eu monte uma **versão com badges coloridos (ícones para cada tecnologia e linguagem)** para deixar o README mais bonito visualmente — tipo portfólio de dev profissional?
-Posso gerar automaticamente os badges com links e cores correspondentes 💎
